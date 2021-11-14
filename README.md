@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kratnas
-- 👀 I’m interested in app designing
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on app creation
+- 👀 I’m full stack developer
+- 🌱 I’m currently learninb 
+- 💞️ I’m looking for freelancing web works
 - 📫 kratnasekharkrs@gmail.com
 
 <!---
